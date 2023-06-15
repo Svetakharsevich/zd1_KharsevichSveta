@@ -1,0 +1,8 @@
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\bin\Debug\Задание 1_cat.exe.config
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\bin\Debug\Задание 1_cat.exe
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\bin\Debug\Задание 1_cat.pdb
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\obj\Debug\Задание 1_cat.csproj.AssemblyReference.cache
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\obj\Debug\Задание 1_cat.csproj.SuggestedBindingRedirects.cache
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\obj\Debug\Задание 1_cat.csproj.CoreCompileInputs.cache
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\obj\Debug\Задание 1_cat.exe
+E:\УЧ_П_мироша\Задание 1\Задание 1_cat\Задание 1_cat\obj\Debug\Задание 1_cat.pdb
